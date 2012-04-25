@@ -48,11 +48,11 @@ function dragmove(d, i) {
 }
 
 function dragstart(d,i){
-
+  console.log("dragging has started");
 }
 
 function dragend(d,i){
-
+  console.log("dragging has ended");
 }
 
 
