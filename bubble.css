@@ -1,0 +1,16 @@
+circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+  cursor:move;
+}
+
+text {
+  font: 10px sans-serif;
+  cursor:pointer;
+}
+
+svg{
+	margin:0 auto;
+	display:block;
+	border:1px solid #eee;
+}
